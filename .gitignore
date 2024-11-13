@@ -1,0 +1,7 @@
+.env
+.python
+.python/*
+langchain/langGraph/bot/.python
+langchain/langGraph/bot/.python/*
+rag/rag_practice/.server
+rag/rag_practice/.server/*
